@@ -6,9 +6,9 @@ Edit these lines according to your need
 //{{{
 $AUTHENTICATE_USER = false;	// true | false
 $USERS = array(
-	'UserName1'=>'Password1', 
-	'UserName2'=>'Password2', 
-	'UserName3'=>'Password3'); // set usernames and strong passwords
+	'autrobin'=>'Letacla4002!', 
+	'UserName2'=>'HgYuJit33', 
+	'UserName3'=>'LkOiJyf77'); // set usernames and strong passwords
 $DEBUG = false;				// true | false
 $CLEAN_BACKUP = true; 		// during backuping a file, remove overmuch backups
 $FOLD_JS = true; 			// if javascript files have been expanded during download the fold them
