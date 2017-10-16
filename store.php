@@ -6,7 +6,7 @@ Edit these lines according to your need
 //{{{
 $AUTHENTICATE_USER = false;	// true | false
 $USERS = array(
-	'autrobin'=>'Letacla4002!', 
+	'autrobin'=>'autrobin', 
 	'UserName2'=>'HgYuJit33', 
 	'UserName3'=>'LkOiJyf77'); // set usernames and strong passwords
 $DEBUG = false;				// true | false
